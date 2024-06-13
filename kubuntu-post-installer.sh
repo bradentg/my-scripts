@@ -16,6 +16,10 @@ echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] 
 # Timeshift
 sudo apt install timeshift
 
+# Node and NPM
+sudo apt install nodejs
+sudo apt install npm
+
 # Snaps
 sudo snap install spotify discord
 sudo snap install code --classic
